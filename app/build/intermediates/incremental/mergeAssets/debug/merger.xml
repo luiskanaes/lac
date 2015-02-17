@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.0"><source path="D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\assets"/></dataSet><dataSet config="main"><source path="D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/background_dark"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:text="@string/lbl_endanswer_title"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dip"/>
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+        
+        <Button 
+            android:id="@+id/button_endanswer_no"
+            android:text="@string/lbl_endanswer_button_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"/>
+        <Button 
+            android:id="@+id/button_endanswer_yes"
+            android:text="@string/lbl_endanswer_button_yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"/>
+    </LinearLayout>
+    
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/ASL2.0'
+    }
+    compileOptions.encoding = 'windows-1251'
+    compileSdkVersion 15
+    buildToolsVersion "21.1.1"
+
+    defaultConfig {
+        applicationId "pe.beyond.lac.gestionmovil"
+        minSdkVersion 9
+        targetSdkVersion 15
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/commons-lang-2.5.jar')
+    compile files('libs/commons-net-3.2.jar')
+    compile files('libs/core.jar')
+    compile files('libs/simple-xml-2.6.5.jar')
+    compile files('libs/zxing-integration.jar')
+    compile 'com.google.android.gms:play-services:6.5.87'
+}

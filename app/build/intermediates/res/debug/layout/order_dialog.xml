@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/list_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dip"
+        android:gravity="center_horizontal"
+        android:textColor="#FFF"
+        android:textSize="20dip"
+        android:typeface="monospace" />  <!-- ex 25 -->
+
+    <LinearLayout 
+        android:id="@+id/lin_order1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Spinner
+	        android:id="@+id/spi_order_typ_1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+        <Spinner
+	        android:id="@+id/spi_order_way_1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/lin_order2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Spinner
+	        android:id="@+id/spi_order_typ_2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+        <Spinner
+	        android:id="@+id/spi_order_way_2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:id="@+id/lin_order3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Spinner
+	        android:id="@+id/spi_order_typ_3"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+        <Spinner
+	        android:id="@+id/spi_order_way_3"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Button
+	        android:id="@+id/button_cancel"
+	        android:text="@string/dialog_dangerous_zone_button_cancel"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+        <Button
+	        android:id="@+id/button_accept"
+	        android:text="@string/dialog_dangerous_zone_button_accept"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/layout/order_dialog.xml -->

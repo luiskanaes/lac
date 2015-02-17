@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main_screen_menu_service"
+        android:title="@string/main_screen_menu_service" />
+    <!--  <item android:id="@+id/main_screen_menu_tracking"
+        android:title="Tracking" />-->
+</menu>
+<!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/menu/main_screen.xml -->

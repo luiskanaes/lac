@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="list_configuration">
+        <item name="item_search">@string/label_configuration_search</item>
+        <item name="item_order">@string/label_configuration_order</item>
+        <item name="item_filter">@string/label_configuration_filter</item>
+    </string-array>
+    <string-array name="list_filter">
+        <item name="item_pending">@string/label_filter_pending</item>
+        <item name="item_in_progress">@string/label_filter_in_progress</item>
+        <item name="item_executed">@string/label_filter_executed</item>
+        <item name="item_finalized">@string/label_filter_finalized</item>
+        <item name="item_all">@string/label_filter_all</item>
+    </string-array>
+    <string-array name="list_main">
+        <item name="item_view_list">@string/title_view_list</item>
+        <item name="item_synchronize_load">@string/title_synchronize_load</item>
+        <item name="item_change_profile">@string/title_change_profile</item>
+        <item name="item_view_summary">@string/title_view_summary</item>
+        <item name="item_session_logout">@string/title_session_logout</item>
+    </string-array>
+    <string-array name="list_profile">
+        <item name="item_communication">@string/title_distribution</item>
+        <item name="item_distribution">@string/title_communication</item>
+        <item name="item_inspection">@string/title_inspection</item>
+        <item name="item_state">@string/title_state</item>
+        <item name="item_meter">@string/title_meter</item>
+        <item name="item_persuasive">@string/title_persuasive</item>
+        <item name="item_clandestine">@string/title_clandestine</item>
+    </string-array>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="button_location_focus">#ff0000ff</color>
+    <color name="button_location_normal">#ffffffff</color>
+    <color name="button_location_pressed">#ff000000</color>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="contents_text">#ff000000</color>
+    <color name="detail_answer_info_text_color">#ffffffff</color>
+    <color name="detail_answer_label_text_color">#ffffffff</color>
+    <color name="detail_info_info_text_color">#ffffffff</color>
+    <color name="detail_info_label_text_color">#ffffffff</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="main_header_text_color">#ffffffff</color>
+    <color name="main_list_item_text_color">#ffffffff</color>
+    <color name="payload_header_text_color">#ffffffff</color>
+    <color name="payload_list_item_text_color">#ffffffff</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_colors.xml -->
+    <eat-comment/>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="zxinglib_possible_result_points">#c0ffff00</color>
+    <color name="zxinglib_result_image_border">#ffffffff</color>
+    <color name="zxinglib_result_points">#c000ff00</color>
+    <color name="zxinglib_result_view">#b0000000</color>
+    <color name="zxinglib_status_text">#ffffffff</color>
+    <color name="zxinglib_transparent">#00000000</color>
+    <color name="zxinglib_viewfinder_frame">#ff000000</color>
+    <color name="zxinglib_viewfinder_laser">#ffff0000</color>
+    <color name="zxinglib_viewfinder_mask">#60000000</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="detail_input_1" type="id"/>
+    <item name="detail_input_2" type="id"/>
+    <item name="detail_input_3" type="id"/>
+    <item name="detail_input_4" type="id"/>
+    <item name="detail_input_5" type="id"/>
+    <item name="detail_linear_1" type="id"/>
+    <item name="detail_linear_2" type="id"/>
+    <item name="detail_linear_3" type="id"/>
+    <item name="detail_linear_4" type="id"/>
+    <item name="detail_linear_5" type="id"/>
+    <item name="divider_view" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="header_view" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="list_item_view" type="id"/>
+    <item name="list_view" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="zxinglib_auto_focus" type="id"/>
+    <item name="zxinglib_decode" type="id"/>
+    <item name="zxinglib_decode_failed" type="id"/>
+    <item name="zxinglib_decode_succeeded" type="id"/>
+    <item name="zxinglib_quit" type="id"/>
+    <item name="zxinglib_return_scan_result" type="id"/>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">6587000</integer>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">GLS-GESTIÓN MÓVIL</string>
+    <string name="app_picker_name">Applications</string>
+    <string name="bookmark_picker_name">Bookmarks</string>
+    <string name="btn_display_map">[ M ] MOSTRAR TECLADO</string>
+    <string name="button_add_calendar">Add to calendar</string>
+    <string name="button_add_contact">Add contact</string>
+    <string name="button_back">Back</string>
+    <string name="button_book_search">Book Search</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_clipboard_empty">Clipboard empty</string>
+    <string name="button_custom_product_search">Custom search</string>
+    <string name="button_dial">Dial number</string>
+    <string name="button_done">Done</string>
+    <string name="button_email">Send email</string>
+    <string name="button_get_directions">Get directions</string>
+    <string name="button_google_shopper">Google Shopper</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_product_search">Product Search</string>
+    <string name="button_search_book_contents">Search contents</string>
+    <string name="button_share_app">Application</string>
+    <string name="button_share_bookmark">Bookmark</string>
+    <string name="button_share_by_email">Share via email</string>
+    <string name="button_share_by_sms">Share via SMS</string>
+    <string name="button_share_clipboard">Clipboard</string>
+    <string name="button_share_contact">Contact</string>
+    <string name="button_show_map">Show map</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_web_search">Web search</string>
+    <string name="button_wifi">Connect to Network</string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="configuration_label_header"> CONFIGURACIONES </string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="contentupload_service_name"> GLS - SUBIDA DE CONTENIDO </string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="detail_screen_menu_help">AYUDA</string>
+    <string name="detail_screen_menu_init_process">EMPEZAR</string>
+    <string name="detail_screen_menu_reset">REVERTIR</string>
+    <string name="dialog_btn_close">CERRAR</string>
+    <string name="dialog_dangerous_zone_button_accept">ACEPTAR</string>
+    <string name="dialog_dangerous_zone_button_cancel">CANCELAR</string>
+    <string name="dialog_dangerous_zone_lbl_end_time">FIN</string>
+    <string name="dialog_dangerous_zone_lbl_start_time">INICIO</string>
+    <string name="dialog_message_confirm_back">SE PERDERÁ LO AVANZADO EN EL REGISTRO</string>
+    <string name="dialog_message_confirm_logout">CONFIRMAR QUE DESEA SALIR DE LA APLICACIÓN</string>
+    <string name="dialog_message_confirm_sync">¿DESEA VOLVER A SINCRONIZAR LA CARGA DEL DÍA?</string>
+    <string name="dialog_message_error_config_download">NO SE COMPLETÓ LA DESCARGA DE CONFIGURACIÓN</string>
+    <string name="dialog_message_error_config_parse">NO SE COMPLETÓ EL PARSEO DE CONFIGURACIÓN</string>
+    <string name="dialog_message_error_info_download">NO SE COMPLETÓ LA DESCARGA DE INFORMACIÓN</string>
+    <string name="dialog_message_error_info_parse">SINCRONIZACION COMPLETADA PERO NO SE ENCONTRO REGISTROS ASIGNADOS</string>
+    <string name="dialog_message_error_login">REINTENTAR DE NUEVO POR FAVOR</string>
+    <string name="dialog_message_error_network">NO SE ENCUENTRA CONECTADO A INTERNET</string>
+    <string name="dialog_message_error_option_undefined">LA OPCIÓN INGRESADA NO ESTA ENTRE LAS POSIBLES</string>
+    <string name="dialog_message_error_qr_search_not_found">EL REGISTRO NO SE ENCONTRÓ EN LA LISTA</string>
+    <string name="dialog_message_error_reading_empty">EL INPUT DE LECTURA NO DEBE SER VACÍO</string>
+    <string name="dialog_message_error_search_not_found">NO SE ENCONTRÓ EL SUMINISTRO INDICADO</string>
+    <string name="dialog_message_error_time_conflicts">LAS HORAS ENTRAN EN CONFLICTO CON LO YA TRABAJADO</string>
+    <string name="dialog_message_error_time_format">EL FORMATO NO ES EL CORRECTO</string>
+    <string name="dialog_message_error_time_incongruence">LA HORA DE INICIO ES MAYOR A LA DE FIN</string>
+    <string name="dialog_message_error_time_out_flux">LA ACTIVIDAD DEBE EJECUTARSE EN EL HORARIO ESTABLECIDO.</string>
+    <string name="dialog_message_error_unsynced_payload">NO SE HA SINCRONIZADO LA CARGA DEL DÍA</string>
+    <string name="dialog_message_gps_disabled">SE DEBE ACTIVAR EL GPS PARA CONTINUAR, ACTÍVELO Y PRESIONE REGRESAR</string>
+    <string name="dialog_message_input_empty">NO ESTÁ PERMITIDO DEJAR VACÍO ESTE INPUT</string>
+    <string name="dialog_message_input_not_minimun">LA CANTIDAD DE CARACTERES ES INFERIOR AL MÍNIMO DE LA PREGUNTA</string>
+    <string name="dialog_message_login_more_chars">SE REQUIERE UN MINIMO DE 3 CARACTERES PARA LOGUEAR</string>
+    <string name="dialog_message_photo_sent_error">SE ESTA INTENTANDO ELIMINAR UNA FOTO QUE YA FUE REGISTRADA</string>
+    <string name="dialog_message_process_started">SE HA INICIADO LA EJECUCIÓN DE LA TAREA.</string>
+    <string name="dialog_message_user_without_modules">EL USUARIO ACTUAL NO TIENE ASOCIADO NINGÚN MÓDULO</string>
+    <string name="dialog_message_validation_not_passed">NO SE CUMPLIÓ CON LA VALIDACIÓN PARA LA PREGUNTA RESPECTIVA</string>
+    <string name="dialog_negative_button">CANCELAR</string>
+    <string name="dialog_no_message">SIN COMENTARIO</string>
+    <string name="dialog_no_title">SIN TÍTULO</string>
+    <string name="dialog_positive_button">ACEPTAR</string>
+    <string name="dialog_reading_button_validate">VALIDAR</string>
+    <string name="dialog_reading_title_first">INGRESAR 1RA LECTURA</string>
+    <string name="dialog_reading_title_second">INGRESAR 2DA LECTURA</string>
+    <string name="dialog_reading_title_third">INGRESAR 3RA LECTURA</string>
+    <string name="dialog_title_confirm_back">¿CONFIRMAR SALIR?</string>
+    <string name="dialog_title_confirm_logout">¿CONFIRMAR SALIR DE LA SESIÓN?</string>
+    <string name="dialog_title_confirm_sync">CONFIRMAR SINCRONIZACIÓN</string>
+    <string name="dialog_title_custom_error">ERROR EN LA PREGUNTA</string>
+    <string name="dialog_title_error_config_download">E003 - INTERRUPCION EN LA CONFIGURACIÓN</string>
+    <string name="dialog_title_error_config_parse">E004 - INTERRUPCION AL FORMAR LOS DATOS</string>
+    <string name="dialog_title_error_info_download">E005 - INTERRUPCION EN LA DESCARGA DE INFORMACION</string>
+    <string name="dialog_title_error_info_parse">E006 - SINCRONIZACION</string>
+    <string name="dialog_title_error_login">E001 - DATOS INVALIDOS O CONEXION NO ESTABLECIDA</string>
+    <string name="dialog_title_error_network">E002 - CONEXION NO ESTABLECIDA</string>
+    <string name="dialog_title_error_option_undefined">OPCION INVALIDA</string>
+    <string name="dialog_title_error_qr_search_not_found">QR NO ENCONTRADO</string>
+    <string name="dialog_title_error_reading_empty">LECTURA VACÍA</string>
+    <string name="dialog_title_error_search_not_found">LA BÚSQUEDA DEL SUMINISTRO</string>
+    <string name="dialog_title_error_time_conflicts">CONFLICTO CON REGISTROS TRABAJADOS</string>
+    <string name="dialog_title_error_time_format">FECHAS INCORRECTAS</string>
+    <string name="dialog_title_error_time_incongruence">HORAS INCONGRUENTES</string>
+    <string name="dialog_title_error_time_out_flux">HORA DE EJECUCIÓN FUERA DE RANGO</string>
+    <string name="dialog_title_error_unsynced_payload">LISTADO DE CARGA</string>
+    <string name="dialog_title_gps_disabled">GPS DESACTIVADO</string>
+    <string name="dialog_title_input_empty">INPUT VACÍO</string>
+    <string name="dialog_title_input_not_minimun">INPUT INFERIOR AL MÍNIMO</string>
+    <string name="dialog_title_login_more_chars">LOGUEO NO VALIDO</string>
+    <string name="dialog_title_photo_manager_error">GALERÍA DE IMÁGENES</string>
+    <string name="dialog_title_photo_sent_error">ELIMINAR FOTO YA REGISTRADA</string>
+    <string name="dialog_title_process_started">ACTIVIDAD INICIADA</string>
+    <string name="dialog_title_user_without_modules">USUARIO SIN MÓDULOS</string>
+    <string name="dialog_title_validation_not_passed">NO SE CUMPLIÓ CON VALIDACIÓN</string>
+    <string name="filter_label_header"> FILTRO DEL LISTADO </string>
+    <string name="history_clear_one_history_text">Clear</string>
+    <string name="history_clear_text">Clear history</string>
+    <string name="history_email_title">Barcode Scanner history</string>
+    <string name="history_empty">Empty</string>
+    <string name="history_empty_detail">No barcode scans have been recorded</string>
+    <string name="history_send">Send history</string>
+    <string name="history_title">History</string>
+    <string name="label_configuration_filter"> FILTRO </string>
+    <string name="label_configuration_order"> ORDENAMIENTO </string>
+    <string name="label_configuration_search"> BÚSQUEDA </string>
+    <string name="label_filter_all"> TODOS </string>
+    <string name="label_filter_executed"> EJECUTADOS </string>
+    <string name="label_filter_finalized"> FINALIZADOS </string>
+    <string name="label_filter_in_progress"> EN PROGRESO </string>
+    <string name="label_filter_pending"> PENDIENTES </string>
+    <string name="label_simple_filter_all"> TODOS </string>
+    <string name="label_simple_filter_executed"> EJECUTADOS </string>
+    <string name="label_simple_filter_finalized"> FINALIZADOS </string>
+    <string name="label_simple_filter_in_progress"> EN PROGRESO </string>
+    <string name="label_simple_filter_pending"> PENDIENTES </string>
+    <string name="lbl_dangerous_zone_no">[ Z ] Z.P. (NO)</string>
+    <string name="lbl_dangerous_zone_yes">[ Z ] Z.P. (SI)</string>
+    <string name="lbl_deleting_all_info">BORRANDO LA INFORMACIÓN ANTERIOR</string>
+    <string name="lbl_dialog_login_download">LOGUEANDO USUARIO</string>
+    <string name="lbl_endanswer_button_no">CANCELAR</string>
+    <string name="lbl_endanswer_button_yes">ACEPTAR</string>
+    <string name="lbl_endanswer_title">¿DESEA TERMINAR Y GUARDAR LOS CAMBIOS?</string>
+    <string name="lbl_loading_config_dwn">DESCARGANDO CONFIGURACIÓN</string>
+    <string name="lbl_loading_config_par">PARSEANDO CONFIGURACIÓN</string>
+    <string name="lbl_loading_config_sav">GUARDANDO CONFIGURACIÓN</string>
+    <string name="lbl_loading_payload_dwn">DESCARGANDO CARGA DEL DÍA</string>
+    <string name="lbl_loading_payload_par">PARSEANDO CARGA DEL DÍA</string>
+    <string name="lbl_loading_payload_sav">GUARDANDO CARGA DEL DÍA</string>
+    <string name="lbl_loading_prepare">PREPARÁNDOSE PARA LA DESCARGA</string>
+    <string name="lbl_loading_userinfo_dwn">DESCARGANDO INFORMACIÓN DEL USUARIO</string>
+    <string name="lbl_login_password">CONTRASEÑA</string>
+    <string name="lbl_login_username">USUARIO</string>
+    <string name="login_btn_login"> INGRESAR </string>
+    <string name="login_label_top"> LOGIN </string>
+    <string name="main_screen_menu_service"> URL - FTP </string>
+    <string name="main_screen_menu_syncronize"> SINC. MÓDULOS</string>
+    <string name="maps_apikey">0KIJZ8hxkdNbdjaWzPk3ak8RYWQeoPmZs3y56Lg</string>
+    <string name="maps_certificate">80:45:B5:F4:AA:05:74:9E:A8:BF:AE:4C:64:0E:76:5B</string>
+    <string name="menu_about">About</string>
+    <string name="menu_encode_mecard">Use MECARD</string>
+    <string name="menu_encode_vcard">Use vCard</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="msg_about">The official Android app of the open source ZXing barcode project.</string>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_google_books">Google Books</string>
+    <string name="msg_google_product">Google Product Search</string>
+    <string name="msg_google_shopper_missing">Google Shopper is not installed</string>
+    <string name="msg_install_google_shopper">Google Shopper combines barcode scanning with online and local prices, reviews and more without opening the browser. Would you like to try it?</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_searching_book">Searching book\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_sbc_unknown_page">Unknown page</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_subject_line">Here are the contents of a barcode I scanned</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="notification_title_content">ENVIANDO CONTENIDO AL SERVIDOR</string>
+    <string name="notification_title_photos">ENVIANDO FOTOS AL SERVIDOR</string>
+    <string name="notification_uploading_message">REGISTROS TERMINADOS Y FOTOS ADJUNTADAS</string>
+    <string name="order_label_header"> ORDEN DEL LISTADO </string>
+    <string name="photo_manager_screen_menu_add"> [A]AGREGAR </string>
+    <string name="photo_manager_screen_menu_delete"> [E]ELIMINAR </string>
+    <string name="photo_manager_screen_menu_exit"> [S]SALIR </string>
+    <string name="preferences_actions_title">When a barcode is found\u2026</string>
+    <string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string>
+    <string name="preferences_bulk_mode_title">Bulk scan mode</string>
+    <string name="preferences_copy_to_clipboard_title">Copy to clipboard</string>
+    <string formatted="false" name="preferences_custom_product_search_summary">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Custom search URL</string>
+    <string name="preferences_decode_1D_title">1D barcodes</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_device_bug_workarounds_title">Device Bug Workarounds</string>
+    <string name="preferences_force_preview_to_screen_size_summary">Only enable if screen is black</string>
+    <string name="preferences_force_preview_to_screen_size_title">Force preview size to screen size</string>
+    <string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="preferences_front_light_title">Use front light</string>
+    <string name="preferences_general_title">General settings</string>
+    <string name="preferences_name">Settings</string>
+    <string name="preferences_play_beep_title">Beep</string>
+    <string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string>
+    <string name="preferences_remember_duplicates_title">Remember duplicates</string>
+    <string name="preferences_result_title">Result settings</string>
+    <string name="preferences_scanning_title">When scanning for barcodes, decode\u2026</string>
+    <string name="preferences_search_country">Search country</string>
+    <string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string>
+    <string name="preferences_supplemental_title">Retrieve more info</string>
+    <string name="preferences_vibrate_title">Vibrate</string>
+    <string name="profile_label_header"> PERFILES </string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="sbc_name">Google Book Search</string>
+    <string name="search_hint">BUSCAR</string>
+    <string name="search_label">GLS-GESTIÓN MÓVIL</string>
+    <string name="search_label_header"> BÚSQUEDA </string>
+    <string name="search_threshold">1</string>
+    <string name="share_name">Share via barcode</string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_about">Barcode Scanner v</string>
+    <string name="title_activity_main"> GESTIÓN MÓVIL</string>
+    <string name="title_change_profile"> CAMBIO DE PERFIL </string>
+    <string name="title_clandestine"> CLANDESTINOS </string>
+    <string name="title_communication"> COMUNICACIÓN </string>
+    <string name="title_distribution"> DISTRIBUCIÓN </string>
+    <string name="title_inspection"> INSPECCIÓN </string>
+    <string name="title_meter"> MEDIDORES </string>
+    <string name="title_persuasive"> ACCIONES PERSUASIVAS </string>
+    <string name="title_session_logout"> CERRAR SESIÓN </string>
+    <string name="title_state"> TOMA DE ESTADO</string>
+    <string name="title_synchronize_load"> SINCRONIZACIÓN </string>
+    <string name="title_view_list"> LISTADO DE CARGA</string>
+    <string name="title_view_summary"> AVANCE </string>
+    <string name="toast_message_current_module">HA SELECCIONADO EL MÓDULO ACTUAL</string>
+    <string name="toast_message_payload_syncing">LA INFORMACIÓN ESTÁ SIENDO DESCARGADA</string>
+    <string name="top_bar_text"> TOP BAR TEXT </string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="wifi_changing_network">Requesting connection to network\u2026</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+    <string name="zxing_url">http://code.google.com/p/zxing</string>
+    <string name="zxinglib_msg_default_status">COLOQUE EL CÓDIGO QR DENTRO DEL RECUADRO. </string>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="SpinnerItem">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">13sp</item> 
+    </style>
+    <style name="StyledHeader">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="StyledLabel">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_styles.xml -->
+    <eat-comment/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="dialog_button_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="dialog_text_message_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="dialog_text_title_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="main_list_item_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style>
+    <style name="main_text_header_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style>
+    <style name="payload_list_item_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="payload_text_header_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style>
+</resources>

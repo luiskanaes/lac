@@ -1,0 +1,43 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dip"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark">
+    
+    <LinearLayout 
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <TextView
+	        android:id="@+id/txt_dialog_title_message"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginBottom="10dip"
+	        android:gravity="center_horizontal"
+	        android:textColor="#FFF"
+	        android:textSize="20dip"
+	        android:typeface="monospace" />
+	
+	    <TextView
+	        android:id="@+id/txt_dialog_message_message"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginBottom="10dip"
+	        android:gravity="center_horizontal"
+	        android:textColor="#FFF"
+	        android:textSize="15dip"
+	        android:typeface="monospace" />
+	
+	    <Button
+	        android:id="@+id/btn_dialog_message_close"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center_horizontal"
+	        android:layout_gravity="center_horizontal"
+	        android:paddingLeft="10dip"
+	        android:paddingRight="10dip"
+	        android:text="@string/dialog_btn_close" />
+    </LinearLayout>
+</ScrollView>
+    <!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/layout/message_dialog.xml -->

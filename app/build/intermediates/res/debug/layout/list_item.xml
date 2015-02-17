@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/profile_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:textColor="@android:color/white"
+    android:textSize="20sp"
+    android:gravity="center_vertical"
+    android:paddingLeft="6dip"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+/>
+<!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/layout/list_item.xml -->

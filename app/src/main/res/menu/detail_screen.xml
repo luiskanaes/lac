@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/detail_screen_menu_reset"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/detail_screen_menu_reset"/>
+    <item
+        android:id="@+id/detail_screen_menu_help"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/detail_screen_menu_help"/>
+	<item
+        android:id="@+id/detail_screen_menu_init_process"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/detail_screen_menu_init_process"/>
+</menu>

@@ -1,0 +1,10 @@
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\classes\debug
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-662847d05c8f4d0842fb1168d95f731e32e484fb.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\zxing-integration-c2d860541cc096e21d06136c98a5692b1550da80.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-2ae438930a8074af37fe3dc4b304d3a68772adf6.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\core-cec49078c529f5d091d9d7868b8a06dc58c7e56d.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\simple-xml-2.6.5-ab11a8cae28d387f4e0b0375ef3f4d9379bcb9df.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\commons-net-3.2-3c14ce812220dd723de5b3ec3a18d898f2f1f155.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\commons-lang-2.5-18c1774eab0ae8980a6a986f09a08812ef7fbc69.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\classes-6257ba1cab8f569f45af9348edd1fa3e7e6b4092.jar
+D:\LUIS\BPO-LAC\DESARROLLO\FUENTES\Mobile\Android\Movil\v4\LAC\app\build\intermediates\pre-dexed\debug\classes-b0d71c1279dbcacb355d893c5367ac3efb15cf67.jar

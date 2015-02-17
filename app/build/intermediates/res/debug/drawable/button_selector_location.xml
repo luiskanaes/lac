@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_focused="true" android:drawable="@color/button_location_focus"/>
+	<item android:state_pressed="true" android:drawable="@color/button_location_pressed"/>
+	<item android:drawable="@color/button_location_normal" />
+   
+
+</selector><!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/drawable/button_selector_location.xml -->

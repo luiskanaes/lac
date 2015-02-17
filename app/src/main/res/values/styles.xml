@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="StyledLabel">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <!-- SIZE 25 -->
+    <style name="StyledHeader">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <!-- ANTES 20 SP FONT SIZE -->
+    <style name="SpinnerItem">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">13sp</item> 
+    </style>
+    
+    <style name="main_text_header_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style>
+
+    <style name="main_list_item_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style>
+
+    <!-- TEXTSIZE 25 -->
+    <style name="payload_text_header_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginLeft">10dip</item>
+    </style>
+
+    <style name="payload_list_item_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="dialog_text_title_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="dialog_text_message_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="dialog_button_style">
+        <item name="android:typeface">monospace</item>
+        <item name="android:textColor">#00B0F0</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+</resources>

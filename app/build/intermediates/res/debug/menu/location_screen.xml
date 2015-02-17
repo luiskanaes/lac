@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item 
+	    android:id="@+id/enable"
+	    android:title="Enable"/>
+	<item 
+	    android:id="@+id/disable"
+	    android:title="Disable"/>
+</menu><!-- From: file:/D:/LUIS/BPO-LAC/DESARROLLO/FUENTES/Mobile/Android/Movil/v4/LAC/app/src/main/res/menu/location_screen.xml -->
